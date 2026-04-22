@@ -116,7 +116,7 @@ export const PROJECTS = [
     img: '/notas/not.jpg',
     alt: 'Solar System',
     title: 'Residential Solar Project',
-    subtitle: '☀️ Epe – Full Home Setup',
+    subtitle: '☀️ Lagos Island – Home Setup',
   },
 ]
 
